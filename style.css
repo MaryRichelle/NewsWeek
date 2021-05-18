@@ -1,0 +1,41 @@
+
+#btween img{
+    width: 120px;
+    height: 90px;
+
+}
+#more-stories img{
+    width: 120px;
+    height: 90px;
+
+}
+#the-debate img{
+    width:70px
+}
+#featurs img{
+    width: 300px;
+    height: 350px;
+}
+.red-lily img{
+    width: 300px;
+    height: 350px;
+}
+.red-lily h5{
+    width: 300px;
+    height: 350px;
+}
+#sub-nav input{
+    width: 80px;
+    padding: 0;
+}
+#main-nav a {
+    color: rgb(247, 244, 244);
+    font-weight: bold;
+}
+#sub-nav a{
+    color: rgb(3, 3, 3);
+    font-weight: bold;
+}
+#trending a{
+    color: gray;
+}
